@@ -1,5 +1,5 @@
 # Products
-* Worldbuilder — Story and world development software. Started on January 10, 2022.
+* Worldbuilder — Story and world development software. Started on January 31, 2023.
 * [Planzea](https://planzea.com) — Offline-first product management software. Started on February 1, 2023 and launched on June 29, 2023.
 
 # Divisions

@@ -1,5 +1,5 @@
 # Products
-* Accounts — Account management software for Makuwro products. Started on July 9th, 2023.
+* Accounts — Account management software for Makuwro products. Started on July 9, 2023.
 * [Planzea](https://planzea.com) — Offline-first product management software. Started on February 1, 2023 and launched on June 29, 2023.
 * Worldbuilder — Story and world development software. Started on January 31, 2023.
 
